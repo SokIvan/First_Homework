@@ -1,4 +1,4 @@
-# my first homework on Java
+# My first homework on Java
 ## MyHashSet
 Был реализован собственный аналог HashSet с ограниченными функциями.
 Также была реализована альтернативная версия.

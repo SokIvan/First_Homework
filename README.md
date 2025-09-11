@@ -1,2 +1,2 @@
-# First_Homework
-my first homework on Java
+# Second_Homework
+my second homework on Java
